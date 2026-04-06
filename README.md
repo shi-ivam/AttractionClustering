@@ -1,6 +1,5 @@
 # Yatrafy — Trip Planner: Technical Report
 
-> **Generated**: 2026-03-04  
 > **Project**: AttractionClustering / Yatrafy Prototype  
 > **Stack**: Vanilla JavaScript, Vite, Google Maps JavaScript API, Google Places API (New)
 
